@@ -102,18 +102,18 @@ We collect and share news from the following sources:
 108 https://fed.az info@fed.az 994702410010
 109 https://mtm.az office@mtm.az 994502342429
 110 https://vergi.az info@vergi.az 994123100929
-111	https://bfb.az	info@bse.az	+994124989820
-112	https://xanim.az	info@xanim.az	
-113	https://president.az	
-114	https://rubrika.az	rublika.az@mail.ru	+994705007575
-115	https://pravda.az	Azpravda@gmail.com	+994557094333
-116	https://atia.az	atia.az@mail.ru	+994703345884
-117	https://mediaxeberleri.az	aladdin.media@mediaxeberleri.az	+994556293832
-118	https://reaksiya.az		+994124090549
-119	https://medicina.az	medicinabaku@gmail.com	+994772701199
-120	https://xalqxeber.az	xalqxeber@mail.ru	+994554768787
-121	https://azadsoz.com	
-122	https://yeniavaz.com	info@yeniavaz.com	+994125308581
-123	https://525.az	info@525.az	+994125102883
-124	https://aqreqator.az
-125	https://azpolitika.info	azpolitika@mail.ru	+994702226627
+111 https://bfb.az info@bse.az +994124989820
+112 https://xanim.az info@xanim.az 
+113 https://president.az 
+114 https://rubrika.az rublika.az@mail.ru +994705007575
+115 https://pravda.az Azpravda@gmail.com +994557094333
+116 https://atia.az atia.az@mail.ru +994703345884
+117 https://mediaxeberleri.az aladdin.media@mediaxeberleri.az +994556293832
+118 https://reaksiya.az  +994124090549
+119 https://medicina.az medicinabaku@gmail.com +994772701199
+120 https://xalqxeber.az xalqxeber@mail.ru +994554768787
+121 https://azadsoz.com 
+122 https://yeniavaz.com info@yeniavaz.com +994125308581
+123 https://525.az info@525.az +994125102883
+124 https://aqreqator.az
+125 https://azpolitika.info azpolitika@mail.ru +994702226627
